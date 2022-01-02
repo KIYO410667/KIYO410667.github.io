@@ -6,7 +6,7 @@ width: 1280px;
 height: 720px;
 
 /* yellow */
-background: #FED801;
+background: #ebd40b;
 
 }
 
@@ -186,7 +186,7 @@ color: #000000;
 .btn{
     justify-content:center;
     width: 244px;
-    background-color: #FED801;
+    background-color: #ebd40b;
     padding: 10px;        
     border-radius: 10px;
     margin: 5px 0px;
